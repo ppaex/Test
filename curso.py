@@ -1,6 +1,6 @@
 
 def cuadrado( numero ):
-    return cuadrado * cuadrado
+    return numero * numero
 
 def cubo( numero ):
-    return cuadrado * cuadrado * cuadrado
+    return numero * numero * numero
