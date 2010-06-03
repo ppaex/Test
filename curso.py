@@ -1,3 +1,9 @@
+'''Módulo del curso
+
+Herramientas para todo el grupo:
+Funciones y
+Clases.'''
+
 
 def cuadrado( numero ):
     'Regresa cuadrado de numero.'
